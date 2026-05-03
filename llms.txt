@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit 85ef7c567625635c8c090fd55e8f6540cf75c090
+> اضحك من قلبك وانسى الأحزان
+> نور لي حياتي في كل مكان
+> روحي فداك يا أغلى حبيب
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
